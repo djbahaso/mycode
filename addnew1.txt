@@ -1,2 +1,0 @@
-add new file to repo
-git basic operations: editing & tracked files
